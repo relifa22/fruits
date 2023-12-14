@@ -1,0 +1,16 @@
+.btn-primary{
+    --bs-btn-bg: #73a56a;
+    --bs-btn-hover-bg: #7df38f;
+    --bs-btn-border-color: #73a56a;
+    
+}
+h1{
+    color: #73a56a;
+}
+.card-title{
+
+    color:#73a56a
+}
+form{
+    padding: 10px;
+}
